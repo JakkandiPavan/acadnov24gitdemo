@@ -1,2 +1,5 @@
 English
 Hindi
+punjabi
+tamil
+telugu
